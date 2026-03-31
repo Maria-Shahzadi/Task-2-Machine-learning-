@@ -1,0 +1,4 @@
+Visual Report: Using any real-world dataset (e.g. Titanic or Iris), produce a full set of
+plots: a histogram for each numeric column, a boxplot showing outliers, a heatmap of the
+correlation matrix, a pairplot for all numeric features, and a countplot for each categorical
+column. Save all plots as PNG files in an organised output folder with clear filenames
