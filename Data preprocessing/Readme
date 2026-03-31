@@ -1,0 +1,6 @@
+Preprocessing Pipeline Builder: Take a mixed dataset containing numeric and
+categorical features with class imbalance. Build a full sklearn Pipeline that encodes
+categorical columns, scales numeric columns, and splits into train/test sets with no
+leakage. Print the shape and dtype of data at each stage. Save the fitted pipeline using
+joblib and reload it to transform a new batch of raw samples — demonstrating it works
+end to end.
