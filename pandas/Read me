@@ -1,0 +1,5 @@
+Pandas:
+Sales Data Analyser: Download or create a mock sales CSV with columns for product,
+region, date, quantity, and price. Write a Pandas script that loads the file, inspects it,filters for a specific region, adds a revenue column, groups by product to find total
+revenue, finds the top 5 products, merges with a mock product metadata table, and
+exports the final result to a new CSV.
