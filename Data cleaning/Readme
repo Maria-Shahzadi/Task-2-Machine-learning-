@@ -1,0 +1,5 @@
+Dirty Data Cleaner: Download or create a deliberately messy CSV with missing values,
+duplicate rows, inconsistent casing, wrong dtypes, and outliers. Write a cleaning pipeline
+that detects and reports every issue, applies an appropriate fix for each, and outputs a
+fully clean version of the file alongside a printed cleaning log showing what was changed
+and how many rows were affected at each step
