@@ -1,0 +1,5 @@
+NumPy Matrix Operations Lab: Write a script that creates two random matrices,
+performs element-wise and matrix multiplication, computes the inverse and determinant
+of a square matrix, normalises a 1D array to range [0,1], and uses broadcasting to
+subtract the column mean from each column of a 2D array. Print shapes and results at
+every step with descriptive labels.
