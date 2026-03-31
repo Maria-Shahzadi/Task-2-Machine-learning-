@@ -1,0 +1,5 @@
+Full EDA Report: Pick a real dataset (e.g. House Prices or Titanic from Kaggle). Write a
+structured EDA script that answers: What is the shape and type of each feature? What
+does the target distribution look like? Which features correlate most with the target? Are
+there outliers? Are there class imbalances? Produce supporting plots for each finding
+and write a short text summary of insights at the end.
