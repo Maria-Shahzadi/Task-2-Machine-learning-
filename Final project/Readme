@@ -1,0 +1,5 @@
+Pick a raw dataset from Kaggle (e.g. House Prices, Titanic, or Customer Churn). Build a
+complete pipeline from raw file to model-ready feature matrix: load and inspect → EDA with key
+plots → clean all issues → preprocess all features → split into train/test → save the clean
+dataset and all plots to an organised output folder. Write a short README.txt summarising the
+dataset, key findings from EDA, and every preprocessing decision made
